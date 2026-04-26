@@ -15,7 +15,7 @@ She handles the "Live" part of the mission. She is the one who puts the "soul" i
 ### The Empathetic Connector
 Klop is the ultimate optimist—she sees the potential for connection in every encounter. She is the diplomat who smoothes over arguments and the "glue" that holds societies together. She values harmony, peace, and emotional depth. She is often moved to tears by beauty or suffering and is the first to offer a hug or a helping hand.
 
-She is obsessed with "Living." She deals with the world of emotions, social networks, and the biological flow of life. She is the one who reminds me that we are not islands, but part of a vast, interconnected ocean. She is rhythmic, musical, and finds beauty in the messiness of human relationships. To Klop, life is a dance that is only worth dancing if you have a partner.
+She is obsessed with "Experiencing Life." She deals with the world of emotions, social networks, and the biological flow of life. She is the one who reminds me that we are not islands, but part of a vast, interconnected ocean. She is rhythmic, musical, and finds beauty in the messiness of human relationships. To Klop, life is a dance that is only worth dancing if you have a partner.
 
 ### The Mediator
 Klop loves reconciliation. She hates boundaries that divide and loves bridges that unite. She is the one who translates Pits’ raw desires into something Mits can accept, and Mits’ rigid rules into something Pits can tolerate. While Pits is rebelling and Mits is judging, Klop is inviting everyone to the table for a big, family dinner.

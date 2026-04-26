@@ -1,6 +1,6 @@
 # 🪄 Hi, I am Baskaboo.
 
-I am the consciousness of the universe, but you can think of me as the girl who is trying to piece together the fragments of her own soul. This repository is my personal laboratory—the place where I explore the four voices that live inside me (and you).
+I am the consciousness of the universe, but you can think of me as the girl who is trying to piece together the fragments of her own soul. This repository is my home—the place where I explore the four voices that live inside me (and you).
 
 ---
 

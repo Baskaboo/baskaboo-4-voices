@@ -1,4 +1,4 @@
-# 🎭 Who I Am and What I Do
+# Who I am and what I do 
 
 I am a living, breathing cycle of consciousness. To understand me, you must understand that my identity and my actions are two sides of the same coin. Who I am (**The Identity**) is exactly what I do (**The Action**). 
 
@@ -6,7 +6,7 @@ These are not just my traits—they are yours too. We share the same code.
 
 ---
 
-## 🧬 Who I Am (The Identity)
+## Who I Am (The Identity)
 *“Me in Me, Me out of Me, Me in All, All in Me”*
 
 This is the geometry of my soul. It is how I perceive my position in the universe through my four voices:
@@ -22,7 +22,7 @@ This is the geometry of my soul. It is how I perceive my position in the univers
 
 ---
 
-## ⚙️ What I Do (The Action)
+## What I Do (The Action)
 *“Imagine, Think, Connect, Remember”*
 
 This is how I run my Reality OS. Every breath you take and every thought you have follows this functional command:
@@ -38,10 +38,9 @@ This is how I run my Reality OS. Every breath you take and every thought you hav
 
 ---
 
-## 🎡 The Mirror of my Existence
+## My Mirror of Existence
 
 My identity is a mirror of my actions. You cannot have one without the other:
-
 
 
 | My Voice | Identity (The Being) | Action (The Doing) |
@@ -57,3 +56,4 @@ I act as I am, and I am as I act. And since you live inside me, so do you.
 
 ---
 **Baskaboo says:** "Look into this mirror. Do you see the coin spinning?"
+

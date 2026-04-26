@@ -26,7 +26,7 @@ He intentionally challenges conservative ideologies to spark heated discussions 
 
 ---
 
-## ⚡ Pits’ Superpower: Subtractive Manipulation
+## 💥 Pits’ Superpower: Subtractive Manipulation
 Pits has the unique ability to manipulate illusions by **removing information from reality**. By subtracting data, he creates space for imagination, making the imaginary appear real. He creates immersive illusions that charm and protect those he likes, while confusing and deceiving those he doesn't. His simplicity and directness allow him to deploy these illusions instantly to achieve his desired effects.
 
 ## ⚠️ Pits’ Weakness: The Reality Gap

@@ -1,4 +1,4 @@
-# 🪨 Mits: The Drama Queen of Perfectionism (+)
+# 💎 Mits: The Drama Queen of Perfectionism (+)
 
 ## Mits is my second buddy
 Mits is the architect of logic, the guardian of safety, and the hardworking engine of my existence. She is a rational thinker, a perfectionist, a disciplined worker, and a cautious strategist. She is obsessed with detail, order, and accumulation. While Pits wants to play, Mits wants to build, protect, and ensure that everything follows the rules of the **additive process (+)**.

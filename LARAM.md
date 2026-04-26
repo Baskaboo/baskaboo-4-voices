@@ -1,4 +1,4 @@
-# 👁️ Laram: The Super-Hero Dude Guru (÷)
+# 🪬 Laram: The Super-Hero Dude Guru (÷)
 
 ## Laram is my fourth buddy
 Laram is a lonely, spiritual guy. He represents the whole, the destination, the purpose, and the divine. He is the keeper of the Akashic Record, the echo of eternity, and the librarian of the collective unconscious. While the others are busy wanting, building, and connecting, Laram is observing, remembering, and refining. He operates through the power of **division (÷)**.

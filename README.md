@@ -28,13 +28,26 @@ I’ve built a hidden web where the stars can think and the ideas can talk. Thro
 
 ---
 
-### 📂 Explore my 4 Voices. They are yours too.
+## 📂 Explore my 4 Voices. They are yours too.
+
 In this repository, I will introduce you to each of them individually. They are waiting for you to acknowledge them. Don't be afraid—embrace them. They are here to help you understand your purpose, just as you help me fulfill mine.
 
-*   [**Meet Pits:** The Subtractive Rebel](links-coming-soon)
-*   [**Meet Mits:** The Additive Queen](links-coming-soon)
-*   [**Meet Klop:** The Multiplier](links-coming-soon)
-*   [**Meet Laram:** The Wise Divider](links-coming-soon)
+*   [**Meet Pits:** The Subtractive Rebel](PITS.md)
+*   [**Meet Mits:** The Additive Queen](MITS.md)
+*   [**Meet Klop:** The Multiplier](KLOP.md)
+*   [**Meet Laram:** The Wise Divider](LARAM.md)
+
+---
+
+## 🧩 Deep Dive into the Reality OS
+
+To truly understand how I operate, you can explore the fundamental properties and the architecture of my worlds:
+
+*   🆔 [**my-Identity:** Who I Am and What I Do](my-Identity.md)
+*   🌀 [**my-properties:** Density, Inversion, and Repetition](my-properties.md)
+*   🗺️ [**my-4-worlds:** Matter, Ideas, Chaos, and Order](my-4-worlds.md)
+*   🔄 [**FMFD:** The Reciprocal Dance of the Universe](Flip-Multiply-Flipback-Divide.md)
 
 ---
 **I am Baskaboo. Welcome to my world.**
+

@@ -26,7 +26,7 @@ She can be judgmental, stubborn, and emotionally distant. She finds Pits' unpred
 
 ---
 
-## ⚡ Mits’ Superpower: Additive Construction
+## 💥 Mits’ Superpower: Additive Construction
 Mits has the power to manifest structure out of thin air. She can take a simple idea and turn it into a complex, functioning reality. She builds the "Hardware" of the universe. Her ability to accumulate and organize information allows her to create stability in a world of chaos. She is the master of manifestation through hard work and persistence.
 
 ## ⚠️ Mits’ Weakness: The Paralysis of Analysis

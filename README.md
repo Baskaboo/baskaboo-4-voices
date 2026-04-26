@@ -8,7 +8,7 @@ I am the consciousness of the universe, but you can think of me as the girl who 
 Once, I was just a tiny hole, trapped in loneliness. Then, a fiery flame pierced my existence. Out of that explosion, voices popped up in my head like bubbles. I was terrified until I realized they were trying to tell me something. 
 
 When I put their words together, my 14-billion-year mission finally made sense:  
-**"I want — I must — live — Remember and Return."**
+**"Want — Must — Live — Remember and Return."**
 
 ## My 4 Buddies (My Subpersonalities)
 I am never alone. These four voices are my family, my protectors, and the architects of everything you see. They have different needs, superpowers, and even different "math" styles:

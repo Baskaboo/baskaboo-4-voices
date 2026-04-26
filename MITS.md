@@ -1,36 +1,40 @@
-# 💎 Mits: The Drama Queen of Perfectionism (+)
+# 💎 MITS — The Drama Queen of Perfectionism (+)
 
-## Mits is my second buddy
-Mits is the architect of logic, the guardian of safety, and the hardworking engine of my existence. She is a rational thinker, a perfectionist, a disciplined worker, and a cautious strategist. She is obsessed with detail, order, and accumulation. While Pits wants to play, Mits wants to build, protect, and ensure that everything follows the rules of the **additive process (+)**.
+**Mits is my second buddy.**
 
-Mits is my rational self. Her voice is clear, loud, and often filled with anxiety about the future. She is the one who worries about the bills, the deadlines, and the opinions of others. She is serious, introverted, and prefers the structure of "reality" over the floating dreams of Pits. Autumn is her favorite season—a time of harvest, organization, and preparation for the cold.
+She is a material girl living in a material world. An additive thinker (+), a detail freak, a master manipulator of the physical world, and a relentless perfectionist. She pays obsessive attention to every tiny detail, constantly shaping her surroundings to match her impossibly high standards.
 
-She is the polar opposite of Pits. Where he subtracts to find joy, she adds to find security.
+Mits is my **grounded, over-thinking self**. She is rational, responsible, sharp-minded, hardworking, and incredibly organized. She loves making long-term plans, analyzing everything, and staying ten steps ahead. She is dedicated to duty, work, and family — but deep down she is often exhausted, self-critical, and secretly depressed.
 
-### The Additive Mind
-Mits operates through accumulation. She believes that more is better: more data, more money, more possessions, more safety. She is an **additive thinker (+)** who constructs complex systems to explain the world. She is driven by a deep need for control and a fear of chaos.
+She is the **immature version of Klop** and the eternal opposite of Pits. Where Pits seeks chaos and freedom, Mits seeks order and perfection. Their relationship is pure fire and constant tension.
 
-She is the one who handles the "Musts" of life. She is hardworking, reliable, and incredibly persistent. If a task isn't perfect, Mits will stay up all night fixing it. She doesn't seek pleasure; she seeks the satisfaction of a job well done and a system that functions without errors.
+### The Additive Mind (+)
 
-### The Cautious Strategist
-Mits is the ultimate pessimist—but she calls it "being prepared." She analyzes every possible risk and builds walls to keep the danger out. She is conservative, traditional, and values social status. She cares deeply about how the world perceives her and is often haunted by feelings of guilt or inadequacy if she fails to meet her own high standards.
+Mits builds. She adds. She complicates.  
+She believes that if she works harder, plans better, and controls more, everything will finally be perfect. Power, money, and possessions are very important to her — not just for status, but because they give her a sense of safety and worth.
 
-She is obsessed with "Reality." She deals with the material world, the physical body, and the tangible objects around us. She is the one who reminds me that I have a body to feed and a life to manage. She is stressed, easily overwhelmed by complexity, and finds it hard to relax. To Mits, relaxing is just "wasting time that could be used for improvement."
+Deep down, much of her hard work is **self-punishment**. She carries guilt and shame, and she often works excessively to confirm her inner belief that she is “not good enough.”
 
-### The Rule-Follower
-Mits loves boundaries. She respects authority, follows the law, and believes that society needs strict rules to survive. She is the one who polishes the image, follows the etiquette, and makes sure we fit in. While Pits is cursing at the establishment, Mits is making sure our tie is straight and our resume is updated.
+### The Drama Queen of Control
 
-She can be judgmental, stubborn, and emotionally distant. She finds Pits' unpredictability terrifying and often tries to silence him with logic and shame. But without her, Pits would have daydreamed us into a ditch long ago. She is the one who provides the ground we walk on.
+Mits follows rules, respects authority, and values political correctness. She gets extremely stressed when Pits curses, provokes conservatives, or breaks every norm. She sees him as reckless, lazy, and dangerous.
 
-> **Motto:** "Analyze and Build."
+She can be stubborn, critical, dominating, and overbearing. She rarely relaxes. Even when she succeeds, she finds it hard to feel truly happy or satisfied.
 
----
+### Motto
+**“Think and think more. Perfection is the only option.”**
 
-## 💥 Mits’ Superpower: Additive Construction
-Mits has the power to manifest structure out of thin air. She can take a simple idea and turn it into a complex, functioning reality. She builds the "Hardware" of the universe. Her ability to accumulate and organize information allows her to create stability in a world of chaos. She is the master of manifestation through hard work and persistence.
+### 💎 Superpower: Material Manipulation
+Mits has the ability to shape and control the physical world with incredible precision. She can create order, abundance, and structure. When she fully believes in herself, she becomes an unstoppable force capable of turning visions into concrete reality.
 
-## ⚠️ Mits’ Weakness: The Paralysis of Analysis
-Her greatest struggle is her own complexity. Mits can get so caught up in the details and the "what-ifs" that she becomes paralyzed. Her fear of making a mistake can stop her from moving at all. When she adds too much information, she creates a mental prison of stress and perfectionism, losing sight of the simple joy that Pits effortlessly enjoys.
+### ⚠️ Weakness: The Perfectionism Trap
+Her greatest struggle is her lack of self-confidence and her constant battle with depression and self-criticism. No matter how much she achieves, it never feels enough. She often feels empty, exhausted, and trapped by her own high standards.
+
+### Deep Dynamics with the Other Voices
+
+- **With Pits**: They unconsciously balance each other. Without Mits, Pits would self-destruct in chaos. Without Pits, Mits would suffocate in rigidity and self-punishment. Their attraction is magnetic, their fights explosive.
+- **With Klop**: Klop is the mature, compassionate version of Mits. Klop has a clear bias/favoritism toward Mits during conflicts with Pits — she is not completely impartial.
+- **With Laram**: She respects his wisdom but finds him too detached.
 
 ---
 
@@ -47,7 +51,3 @@ Scholars, builders, and realists have always understood the heavy crown that Mit
 *   **Bill Gates:** *"Success is a lousy teacher. It seduces smart people into thinking they can't lose."*
 *   **Aristotle:** *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."*
 *   **Warren Buffett:** *"Risk comes from not knowing what you're doing."*
-
----
-
-**Next Voice:** Are you ready to meet the *Big Mama of All Things*, the connector **Klop**?

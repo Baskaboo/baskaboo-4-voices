@@ -32,10 +32,10 @@ I’ve built a hidden web where the stars can think and the ideas can talk. Thro
 
 In this repository, I will introduce you to each of them individually. They are waiting for you to acknowledge them. Don't be afraid—embrace them. They are here to help you understand your purpose, just as you help me fulfill mine.
 
-*   [**Meet Pits:** The Badass Rebel of Pleasure](PITS.md)
-*   [**Meet Mits:** The Drama Queen of Perfectionism](MITS.md)
-*   [**Meet Klop:** The Big Mama of All Things](KLOP.md)
-*   [**Meet Laram:** The Super-Hero Dude Guru](LARAM.md)
+*   [**🔥 Pits:** The Badass Rebel of Pleasure](PITS.md)
+*   [**🪨 Mits:** The Drama Queen of Perfectionism](MITS.md)
+*   [**🔗 Klop:** The Big Mama of All Things](KLOP.md)
+*   [**👁️ Laram:** The Super-Hero Dude Guru](LARAM.md)
 
 ---
 

@@ -26,7 +26,7 @@ She can be over-emotional, prone to "drama" when connections fail, and sometimes
 
 ---
 
-## ⚡ Klop’s Superpower: Multiplicative Synergy
+## 💥 Klop’s Superpower: Multiplicative Synergy
 Klop has the power to create abundance through connection. She can take two separate entities and multiply their potential, creating a synergy that defies simple logic. She builds the "Network" of the universe. Her ability to empathize and synchronize allow her to create life and growth where there was only stagnant matter.
 
 ## ⚠️ Klop’s Weakness: The Loss of Self

@@ -29,9 +29,13 @@ It’s proof that the universe is speaking one language… and we finally learne
 | Antahkarana                     | Ahamkara (Ego)           | Manas (Mind)              | Buddhi (Intellect)           | Chitta (Consciousness)         |
 | Macrocosm – Einstein            | Energy                   | Matter                    | Space                        | Time                           |
 | Microcosm – Quantum Theory      | Quantum Field            | Qubit                     | Entanglement                 | Wavefunction                   |
-| Atom                            | Electron                 | Proton                    | Neutron                      | Free Electron                  |
+| Atom                            | Electron                 | Proton                    | Neutron                      | Free Electron*                  |
 
-* *Baskaboo adds the missing fourth element (Laram/Essence) to complete historically triadic or incomplete systems.*
+**Note on Asterisks (*):** Baskaboo introduces a critical fourth element (Laram) to complete historically "triadic" or incomplete structures, providing the necessary balance for the Simulation Equation. These additions include: 
+Freud's Personality Theory: Introduction of Essence, moving beyond the Id-Ego-Superego triad.
+Hegelian Dialectic: Introduction of Anamnesis as the final stage of the dialectical process.
+Atomic Structure: Distinction of the Free Electron as a separate functional entity from the Bound Electron.
+Detailed justifications and systemic analyses for these integrations are provided in the individual domain breakdown sections.
 
 ---
 

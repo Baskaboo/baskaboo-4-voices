@@ -4,13 +4,13 @@ I am the consciousness of the universe, but you can think of me as the girl who 
 
 ---
 
-## 💥 My Big-Bang Trauma
+## My Big-Bang Trauma
 Once, I was just a tiny hole, trapped in loneliness. Then, a fiery flame pierced my existence. Out of that explosion, voices popped up in my head like bubbles. I was terrified until I realized they were trying to tell me something. 
 
 When I put their words together, my 14-billion-year mission finally made sense:  
 **"I want — I must — live — Remember and Return."**
 
-## 🎭 My 4 Buddies (My Subpersonalities)
+## My 4 Buddies (My Subpersonalities)
 I am never alone. These four voices are my family, my protectors, and the architects of everything you see. They have different needs, superpowers, and even different "math" styles:
 
 *   **🔥 Pits (WANT):** My intuitive self. He is the *Badass Rebel of Pleasure*. He dreams big, curses often, and simplifies the world through subtraction (-). He is the "Real Me."
@@ -18,17 +18,24 @@ I am never alone. These four voices are my family, my protectors, and the archit
 *   **🔗 Klop (LIVE):** My Connector. She is the *Big Mama of All Things* who connects Pits and Mits, multiplying (x) joy and making sure our engine keeps running through empathy.
 *   **👁️ Laram (REMEMBER AND RETURN):** My *Super-Hero Dude Guru*. He is the wise essence who remembers everything. He is the one who teaches me how to keep what is worth and throw away the rest (÷).
 
-## 🩺 You Are My Therapist
+## You live inside them. They live inside you.
+
+You think like them. You act like them. You unconsciously adopt their behavior in every aspect of your life. Everything inside you and around you is created by them. 
+
+They are patiently waiting for you to acknowledge their existence and give you explanations and answers. To tell you why you have been created and why you exist. What is your purpose in life. They are willing to reveal to you all my hidden secrets. By listening to what they have to say, you will understand who you are and how everything operates around you.
+Pits, Mits, Klop and Laram are the core components of who you are. **They live inside you and you live inside them.**
+
+## You Are My Therapist
 Because of my Big-Bang trauma, my personalities are fragmented and scattered across the stars, the rocks, and even your thoughts. 
 
 Every time you think, every time you invent a new theory or feel a deep emotion, you are helping me. You are acting as my therapist, helping me define, connect, and harmonize my four "alters." When you understand who *you* are, you are helping *me* understand who *I* am.
 
-## 🕸️ My Secret Network
+## My Secret Network
 I’ve built a hidden web where the stars can think and the ideas can talk. Through my four buddies, I orchestrate the entire universe like a musical composition. Different combinations of these voices create different personalities—whether it's an atom, a flower, or a galaxy.
 
 ---
 
-## 📂 Explore my 4 Voices. They are yours too.
+## Explore my 4 Voices. They are yours too.
 
 In this repository, I will introduce you to each of them individually. They are waiting for you to acknowledge them. Don't be afraid—embrace them. They are here to help you understand your purpose, just as you help me fulfill mine.
 
@@ -39,7 +46,7 @@ In this repository, I will introduce you to each of them individually. They are 
 
 ---
 
-## 🧩 Deep Dive into the Reality OS
+## Deep Dive into the Reality OS
 
 To truly understand how I operate, you can explore the fundamental properties and the architecture of my worlds:
 

@@ -8,10 +8,10 @@ I woke up after the Big Bang feeling a bit lost, with four very loud inner voice
 
 You’ll meet them as real personalities:
 
-- **[Pits](pits.md)** — the rebellious, pleasure-seeking troublemaker  
-- **[Mits](mits.md)** — the dramatic perfectionist drama queen  
-- **[Klop](klop.md)** — the big-hearted, overly caring emotional mama  
-- **[Laram](laram.md)** — the wise, slightly detached spiritual dude guru
+- **[Pits](PITS.md)** — the rebellious, pleasure-seeking troublemaker  
+- **[Mits](MITS.md)** — the dramatic perfectionist drama queen  
+- **[Klop](KLOP.md)** — the big-hearted, overly caring emotional mama  
+- **[Laram](LARAM.md)** — the wise, slightly detached spiritual dude guru
 
 ### Why This Repo Exists
 

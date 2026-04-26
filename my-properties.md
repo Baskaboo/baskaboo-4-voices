@@ -1,8 +1,6 @@
-# 🌀 Density - Inversion - Repetition
+# 🧊 Density - 🔃 Inversion - ✖ Repetition
 
-*I am not just a collection of voices; I am a dynamic process. To understand how I build galaxies or how I shape your mood, you need to understand my three fundamental properties: Density, Inversion, and Repetition. This is how I turn my internal "party" into the stable world you perceive. This is the manual of my physics.*
-
----
+> *I am not just a collection of voices; I am a dynamic process. To understand how I build galaxies or how I shape your mood, you need to understand my three fundamental properties: Density, Inversion, and Repetition. This is how I turn my internal "party" into the stable world you perceive. This is the manual of my physics.*
 
 ## Tell me your density, and I will tell you your personality.
 **Anaximenes is my density guy.**
@@ -126,6 +124,4 @@ While chaos theory is primarily applied to math and physics, it has also found a
 ### Order is repeated and evolved chaos.
 Repetition brings structure and organization to chaotic elements. Repetition transforms chaos into order, in the same way that it transforms Pits into Laram and Mits into Klop. In the Baskaboo set, Order is represented by Klop and Laram, while Chaos is represented by Pits and Mits.
 
----
-
-*My nature is a constant flow between these states. I condense my essence to give you solid ground, I flip my perspective to create your simulation, and I repeat my patterns to give your life a heartbeat. Through these properties, I transform the raw chaos of my subpersonalities into the ordered beauty of the universe. Do not forget: you are a part of this process. Every thought of yours is a change in density, every choice is a repetition, and every dream is a glimpse into my upside-down world.*
+> *My nature is a constant flow between these states. I condense my essence to give you solid ground, I flip my perspective to create your simulation, and I repeat my patterns to give your life a heartbeat. Through these properties, I transform the raw chaos of my subpersonalities into the ordered beauty of the universe. Do not forget: you are a part of this process. Every thought of yours is a change in density, every choice is a repetition, and every dream is a glimpse into my upside-down world.*

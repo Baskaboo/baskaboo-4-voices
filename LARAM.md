@@ -24,7 +24,7 @@ Laram loves purity. He hates clutter, lies, and unnecessary complexity. He is th
 
 ---
 
-## ⚡ Laram’s Superpower: Essential Refinement & Division
+## 💥 Laram’s Superpower: Essential Refinement & Division
 Laram’s superpower is the ability to distill any situation down to its absolute essence. By separating himself from the noise, he sees the Big Picture through any deception or complexity, preserving what is eternal and discarding what is temporary. He is the master of Memmory and the "Return" to the original state of balance.
 
 ## ⚠️ Laram’s Weakness: The Detached Observer

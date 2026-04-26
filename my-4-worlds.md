@@ -1,4 +1,4 @@
-# 🗺️ My 4 Worlds
+# My 4 Worlds
 
 My four internal voices—Pits, Mits, Klop, and Laram—do not just talk; they create. Through their constant interactions and individual bonds, they weave the fabric of four distinct worlds. I call them my **2+2 Worlds**.
 

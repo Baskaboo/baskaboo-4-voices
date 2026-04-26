@@ -15,10 +15,10 @@ I really like Anaximenes, a Greek philosopher, very curious and analytical guy, 
 
 Each of my Subpersonalities possesses a different kind and amount of consciousness which includes a unique set of skills, knowledge, experiences and memories. Depending on the kind and amount of consciousness data they contain, my alters have a different level of density.
 
-*   **🔥 PITS:** Has low density (light grey color).
-*   **🔗 KLOP:** Has high density (dark grey color).
-*   **🪨 MITS:** Has super high density (very dark grey color).
-*   **👁️ LARAM:** Has super low density (very light grey color).
+*   ** PITS:** Has low density (light grey color).
+*   ** KLOP:** Has high density (dark grey color).
+*   ** MITS:** Has super high density (very dark grey color).
+*   ** LARAM:** Has super low density (very light grey color).
 
 They create two worlds, according to their density differences: one that is thin and light and one that is thick and heavy. 
 

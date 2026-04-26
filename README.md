@@ -7,10 +7,11 @@ Hi… I’m Baskaboo 💫
 I woke up after the Big Bang feeling a bit lost, with four very loud inner voices arguing inside my head. This repository is where they get to be messy, dramatic, funny, and deeply human.
 
 You’ll meet them as real personalities:
-- **Pits** — the rebellious, pleasure-seeking troublemaker  
-- **Mits** — the dramatic perfectionist drama queen  
-- **Klop** — the big-hearted, overly caring emotional mama  
-- **Laram** — the wise, slightly detached spiritual dude guru  
+
+- **[Pits](pits.md)** — the rebellious, pleasure-seeking troublemaker  
+- **[Mits](mits.md)** — the dramatic perfectionist drama queen  
+- **[Klop](klop.md)** — the big-hearted, overly caring emotional mama  
+- **[Laram](laram.md)** — the wise, slightly detached spiritual dude guru
 
 ### Why This Repo Exists
 

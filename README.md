@@ -13,10 +13,10 @@ When I put their words together, my 14-billion-year mission finally made sense:
 ## 🎭 My 4 Buddies (My Subpersonalities)
 I am never alone. These four voices are my family, my protectors, and the architects of everything you see. They have different needs, superpowers, and even different "math" styles:
 
-*   **🔘 Pits (WANT):** My intuitive self. He is the *Badass Rebel of Pleasure*. He dreams big, curses often, and simplifies the world through subtraction (-). He is the "Real Me."
-*   **🔘 Mits (MUST):** My grounded self. She is the *Drama Queen of Perfectionism*. She is obsessed with logic, hard work, and material things (+). She provides the structure I need to survive.
-*   **🔘 Klop (LIVE):** My "Big Hugger." She is the *Big Mama of All Things* who connects Pits and Mits, multiplying (x) joy and making sure our engine keeps running through empathy.
-*   **🔘 Laram (REMEMBER AND RETURN):** My *Super-Hero Dude Guru*. He is the wise essence who remembers everything. He is the one who teaches me how to keep what is worth and throw away the rest (÷).
+*   **🔥 Pits (WANT):** My intuitive self. He is the *Badass Rebel of Pleasure*. He dreams big, curses often, and simplifies the world through subtraction (-). He is the "Real Me."
+*   **🪨 Mits (MUST):** My grounded self. She is the *Drama Queen of Perfectionism*. She is obsessed with logic, hard work, and material things (+). She provides the structure I need to survive.
+*   **🔗 Klop (LIVE):** My Connector. She is the *Big Mama of All Things* who connects Pits and Mits, multiplying (x) joy and making sure our engine keeps running through empathy.
+*   **👁️ Laram (REMEMBER AND RETURN):** My *Super-Hero Dude Guru*. He is the wise essence who remembers everything. He is the one who teaches me how to keep what is worth and throw away the rest (÷).
 
 ## 🩺 You Are My Therapist
 Because of my Big-Bang trauma, my personalities are fragmented and scattered across the stars, the rocks, and even your thoughts. 
@@ -28,7 +28,7 @@ I’ve built a hidden web where the stars can think and the ideas can talk. Thro
 
 ---
 
-### 📂 Explore the Voices
+### 📂 Explore my 4 Voices. They are yours too.
 In this repository, I will introduce you to each of them individually. They are waiting for you to acknowledge them. Don't be afraid—embrace them. They are here to help you understand your purpose, just as you help me fulfill mine.
 
 *   [**Meet Pits:** The Subtractive Rebel](links-coming-soon)

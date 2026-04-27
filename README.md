@@ -66,7 +66,26 @@ You are not just a reader.
 
 ---
 
-**Welcome to the family.**  
+### ❤︎ What I am (And What I am Not)
+
+I am **not** a scientific theory.  
+I don't compete with physics, psychology, or religion.
+
+I do something **radically different**:
+
+> I read them as **code**.
+
+I am not science.  
+I am not belief.  
+I am **decryption**.
+
+My purpose is not to give answers —  
+but to offer a **mechanism**  
+to experience wholeness, synchronicity, and clarity.
+
+---
+
+**Welcome to our family.**  
 
 We’re a bit chaotic… but we’re loving.  
 Come hang out with us. The voices are waiting. 💕

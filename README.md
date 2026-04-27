@@ -6,7 +6,7 @@ Hi… I’m Baskaboo 💫
 
 I woke up after the Big Bang feeling a bit lost, with four very loud inner voices arguing inside my head. This repository is where they get to be messy, dramatic, funny, and deeply human.
 
-### Meet the Four Voices
+### Meet my Four Voices
 
 You’ll meet them as real personalities:
 

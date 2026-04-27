@@ -13,7 +13,30 @@ You’ll meet them as real personalities:
 - **[🔥 Pits](PITS.md)** — the rebellious, pleasure-seeking troublemaker  
 - **[💎 Mits](MITS.md)** — the dramatic perfectionist drama queen  
 - **[❤️ Klop](KLOP.md)** — the big-hearted, overly caring emotional mama  
-- **[🪬 Laram](LARAM.md)** — the wise, slightly detached spiritual dude guru  
+- **[🪬 Laram](LARAM.md)** — the wise, slightly detached spiritual dude guru
+
+---
+
+### See How They Talk to Each Other
+
+These files explore the deeper relationships and dynamics between the voices:
+
+- **[My Identity](my-identity.md)** — Who I am and what I do (The geometry of my soul)
+- **[My Properties](my-properties.md)** — Density, Inversion, Repetition (The hidden mechanics of how I work)
+- **[My 4 Worlds](my-4-worlds.md)** — The 2+2 Worlds I created (Ideas, Matter, Chaos, Order)
+- **[Flip - Multiply - Flipback - Divide](Flip-Multiply-Flipback-Divide.md)** — The eternal cycle that keeps everything moving
+
+---
+
+### 🪄 The Magic Match Table
+
+This is where the real magic happens.
+
+The **[Magic Match Table](Magic-Match-Table.md)** shows how the same four voices (Pits, Mits, Klop, Laram) are the fundamental building blocks behind **everything** — from the laws of physics and elements of nature to psychology, philosophy, business, computing, and human inventions.
+
+It proves that the universe speaks one single language… and these four voices *are* that language.
+
+--- 
 
 ### Why This Repo Exists
 

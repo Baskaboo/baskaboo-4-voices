@@ -51,7 +51,7 @@ You are not just a reader.
 
 ---
 
-### 🗺️ The Rest of the Baskaboo Multiverse
+### 🔗 Connection to the Baskaboo Ecosystem
 
 | Repository                              | What it is                                   | Vibe                          |
 |-----------------------------------------|----------------------------------------------|-------------------------------|

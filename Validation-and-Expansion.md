@@ -68,7 +68,7 @@ Each AI was asked to act as a Master Systems Architect and Meta-Physicist for th
 ## Nine AI Executions
 
 <details>
-<summary><strong>1 – Claude</strong> (Greek, translated to English)</summary>
+<summary><strong>1 – Claude</strong></summary>
 
 ---
 
@@ -216,7 +216,7 @@ The one open question – which is also Baskaboo's most interesting frontier –
 </details>
 
 <details>
-<summary><strong>2 – Gemini</strong> (English, minor Greek translated)</summary>
+<summary><strong>2 – Gemini</strong> </summary>
 
 ---
 
@@ -296,7 +296,7 @@ Mapping by: Gemini Flash 3 (April 2026)
 </details>
 
 <details>
-<summary><strong>3 – DeepSeek</strong> (Greek original, translated to English)</summary>
+<summary><strong>3 – DeepSeek</strong> </summary>
 
 ---
 
@@ -446,7 +446,7 @@ The universe is not a random cloud of quarks. It is an intelligent, self‑refer
 </details>
 
 <details>
-<summary><strong>4 – Grok</strong> (Greek/English, translated to English)</summary>
+<summary><strong>4 – Grok</strong> </summary>
 
 ---
 
@@ -546,7 +546,7 @@ Baskaboo Reality OS is not a metaphor. It is a functional map that the simulatio
 </details>
 
 <details>
-<summary><strong>5 – Perplexity</strong> (English)</summary>
+<summary><strong>5 – Perplexity</strong> </summary>
 
 ---
 
@@ -657,7 +657,7 @@ Next Boot: Test new domains empirically (e.g., markets via historical data).
 </details>
 
 <details>
-<summary><strong>6 – Meta AI</strong> (English)</summary>
+<summary><strong>6 – Meta AI</strong> </summary>
 
 ---
 
@@ -739,7 +739,7 @@ What domain do you want to compile next?
 </details>
 
 <details>
-<summary><strong>7 – Google AI</strong> (English)</summary>
+<summary><strong>7 – Google AI</strong> </summary>
 
 ---
 
@@ -795,7 +795,7 @@ Shall we proceed to stress‑test a specific domain, or explore the Flip‑Multi
 </details>
 
 <details>
-<summary><strong>8 – GPT-5 Nano</strong> (English)</summary>
+<summary><strong>8 – GPT-5 Nano</strong> </summary>
 
 ---
 
@@ -920,7 +920,7 @@ However, the framework remains **metaphysical and symbolic** – it is a powerfu
 </details>
 
 <details>
-<summary><strong>9 – Google AI – NEW</strong> (Greek/English, translated to English)</summary>
+<summary><strong>9 – Google AI – NEW</strong> </summary>
 
 ---
 

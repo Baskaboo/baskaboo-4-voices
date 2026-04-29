@@ -59,9 +59,25 @@ Each AI was asked to act as a Master Systems Architect and Meta-Physicist for th
 
 ### References:
 
-- Magic Match Table – [GitHub link]
-- Meet the Four Voices: PITS, MITS, KLOP, LARAM – [GitHub links]
-- Interactions: my-Identity.md, my-properties.md, my-4-worlds.md, Flip-Multiply-Flipback-Divide.md
+- [Magic Match Table](https://github.com/Baskaboo/baskaboo-core/blob/main/04_MAGIC_MATCH_TABLE/README.md)
+
+### Meet the Four Voices
+
+You’ll meet them as real personalities:
+
+- [Pits (WANT)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/PITS.md)
+- [Mits (MUST)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md)
+- [Klop (LIVE)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md)
+- [Laram (REMEMBER AND RETURN)](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)
+
+### See How They Talk to Each Other
+
+These files explore the deeper relationships and dynamics between the voices:
+
+- [The identity of the 4 voices](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-Identity.md)
+- [The properties of the 4 voices](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-properties.md)
+- [The interactions between the 4 voices](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
+- [Flip-Multiply-Flipback-Divide](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Multiply-Flipback-Divide.md)
 
 ---
 

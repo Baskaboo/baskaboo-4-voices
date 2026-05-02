@@ -5,7 +5,7 @@ Hi… I’m Baskaboo 💫
 I woke up after the Big Bang feeling a bit lost, with four very loud inner voices arguing inside my head. This repository is where they get to be messy, dramatic, funny, and deeply human.
 
 ### Your Four Selves
-Inside your mind there are four distinct voices. They are not just personalities — they are the fundamental building blocks that make you who you are. Each one has its own role, its own character, and its own flaws. Without the others, none of them can truly function.
+Inside our mind there are four distinct voices. They are not just personalities — they are the fundamental building blocks that make you who you are. Each one has its own role, its own character, and its own flaws. Without the others, none of them can truly function.
 Meet them:
 
 - **[🔥 Pits](PITS.md)** — **The Badass Rebel of Pleasure (−).**

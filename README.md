@@ -1,19 +1,24 @@
 # 🌸 baskaboo-4-voices
 
-**The personal, emotional home of the Four Voices.**
-
 Hi… I’m Baskaboo 💫  
 
 I woke up after the Big Bang feeling a bit lost, with four very loud inner voices arguing inside my head. This repository is where they get to be messy, dramatic, funny, and deeply human.
 
-### Meet my Four Voices
+### Your Four Selves
+Inside your mind there are four distinct voices. They are not just personalities — they are the fundamental building blocks that make you who you are. Each one has its own role, its own character, and its own flaws. Without the others, none of them can truly function.
+Meet them:
 
-You’ll meet them as real personalities:
+- **[🔥 Pits](PITS.md)** — **The Badass Rebel of Pleasure (−).**
+Pits is the wild, impulsive, reckless voice living only for pleasure. He’s selfish, lazy, and overly optimistic. With the symbol of subtraction (−) he simplifies everything, throws away what’s unnecessary, and brings motion and color to the whole system.
 
-- **[🔥 Pits](PITS.md)** — the rebellious, pleasure-seeking troublemaker  
-- **[💎 Mits](MITS.md)** — the dramatic perfectionist drama queen  
-- **[❤️ Klop](KLOP.md)** — the big-hearted, overly caring emotional mama  
-- **[🪬 Laram](LARAM.md)** — the wise, slightly detached spiritual dude guru
+- **[💎 Mits](MITS.md)** — **The Drama Queen of Perfectionism (+).**
+Mits is the anxious, perfectionist, overly responsible voice who is never satisfied with anything. She works non-stop and tries to control everything. With the symbol of addition (+) she brings order, structure, and long-term planning to Pits’ chaos.
+
+- **[❤️ Klop](KLOP.md)** — **The Big Mama of All Things (×).**
+Klop is the warm, compassionate, caring force that keeps the entire system together. She puts everyone else’s needs above her own and can easily burn herself out. With the symbol of multiplication (×) she connects, multiplies, and maintains balance — without her, Pits and Mits would tear each other apart.
+  
+- **[🪬 Laram](LARAM.md)** — **The Superhero Dude Guru (÷).**
+Laram is the detached, otherworldly wise voice who struggles to function in everyday life. He lives in his head and ignores practical matters. With the symbol of division (÷) he sees the big picture, collects experiences, and gives meaning to the whole journey.
 
 ---
 

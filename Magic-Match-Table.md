@@ -20,7 +20,7 @@ It’s proof that the universe is speaking one language… and we finally learne
 | Arthur Schopenhauer             | Will to Live             | Representation            | Compassion                   | Asceticism                     |
 | Hegelian Dialectic              | Thesis                   | Antithesis                | Synthesis                    | Anamnesis*                     |
 | Computing                       | Software                 | Hardware                  | Network                      | Cloud                          |
-| Religion                        | God / Faith              | Doctrine / Law            | Community / Church           | Scripture / Enlightenment      |
+| Religion                        | God                      | Jesus                     | Church                       | Bible                          |
 | Business                        | Vision                   | Product / Structure       | Team / Network               | Brand / Legacy                 |
 | Math Operations                 | Subtraction (-)          | Addition (+)              | Multiplication (×)           | Division (÷)                   |
 | Spirituality                    | Soul                     | Body                      | Mind                         | Spirit                         |
@@ -29,7 +29,7 @@ It’s proof that the universe is speaking one language… and we finally learne
 | Antahkarana                     | Ahamkara (Ego)           | Manas (Mind)              | Buddhi (Intellect)           | Chitta (Consciousness)         |
 | Macrocosm – Einstein            | Energy                   | Matter                    | Space                        | Time                           |
 | Microcosm – Quantum Theory      | Quantum Field            | Qubit                     | Entanglement                 | Wavefunction                   |
-| Atom                            | Electron                 | Proton                    | Neutron                      | Free Electron*                  |
+| Atom                            | Electron                 | Proton                    | Neutron                      | Free Electron*                 |
 
 **Note on Asterisks (*):** Baskaboo introduces a critical fourth element (Laram) to complete historically "triadic" or incomplete structures, providing the necessary balance for the Simulation Equation. These additions include: 
 • Freud's Personality Theory: Introduction of Essence, moving beyond the Id-Ego-Superego triad.

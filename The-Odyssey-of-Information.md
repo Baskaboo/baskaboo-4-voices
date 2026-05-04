@@ -82,6 +82,13 @@ Apply these equations to **each** domain to interpret its internal stability and
 
 ---
 
+**Analysis Guidelines:**
+Perform a strictly objective, cross-domain analysis. Focus on bidirectional correspondences: translate insights from one domain into the language and logic of the other domains. Identify key details or "unlock points" that simultaneously unlock or deepen understanding across multiple domains. The final analysis must be comprehensive yet concise, well-structured, and free of narrative voices, poetic language, or role-playing elements. Prioritize clarity, precision, and synthesis.
+
+Now proceed with the full analysis...
+
+---
+
 # 🌀 Baskaboo Reality OS: The Unified Algorithmic Framework
 ## by Gemini
 

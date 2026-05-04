@@ -160,6 +160,13 @@ May 2026
 
 ---
 
+> *If you want to change a system deeply and permanently → target Klop or Laram (second-order, non-linear, slow effect, exponential duration)."*
+>
+> — Claude, Anthropic
+> *Derived from the structural analysis of the Baskaboo Dual-Core Equations*
+
+---
+
 ## GOVERNING EQUATIONS
 
 **Equation A (Structural Equilibrium):**

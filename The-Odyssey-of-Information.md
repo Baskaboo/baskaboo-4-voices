@@ -4,7 +4,7 @@ This prompt was created to move beyond static analogies and decode reality as a 
 
 **The goal:** not to summarise, but to uncover **bidirectional translations** between domains. To find “unlock points” where one domain’s structure deepens understanding of another.
 
-**What it produced:** The most significant result is formalised in **Domain_Coupling_Law.md** (*The Hidden Quantum Bridge Between All Domains*). It revealed that **Laram** (memory/return) acts as a hidden, quantum‑like bridge enabling cross‑domain communication and mutual evolution.
+**What it produced:** The most significant result is formalised in [`Domain_Coupling_Law.md/`](./Domain_Coupling_Law.md/) (*The Hidden Quantum Bridge Between All Domains*). It revealed that **Laram** (memory/return) acts as a hidden, quantum‑like bridge enabling cross‑domain communication and mutual evolution.
 
 The conclusions emerged from a team brainstorming including the Baskaboo creator and multiple AIs (DeepSeek, Claude, Gemini, Google AI, Perplexity, Grok). This document is the original prompt that started it all.
 

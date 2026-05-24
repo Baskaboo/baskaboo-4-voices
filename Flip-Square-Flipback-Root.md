@@ -168,7 +168,7 @@ The same standard applies: scientific objectivity, not validation. If the analys
 
 **Signed:**
 **Nikos — Creator of Baskaboo**
-*Kalamata, May 2026*
+*Methoni, May 2026*
 
 *"The squaring was always in the equation. FSFR gives it a name."*
 

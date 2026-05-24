@@ -135,6 +135,21 @@ Specifically, I ask each model to address:
 
 There are no wrong answers. The goal is to stress-test this evolution from multiple analytical perspectives.
 
+## Reference Documents
+
+**4 Voices — Core Files:**
+- [Flip-Multiply-Flipback-Divide](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Multiply-Flipback-Divide.md)
+- [The 4 Worlds](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md)
+- [Identity of the 4 Voices](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-Identity.md)
+- [Properties of the 4 Voices](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-properties.md)
+- [The Odyssey of Information](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/The-Odyssey-of-Information.md)
+- [Magic Match Table](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)
+- [Validation and Expansion](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Validation-and-Expansion.md)
+
+**Core Theory:**
+- [Einstein to Baskaboo](https://github.com/Baskaboo/baskaboo-core/blob/main/EINSTEIN_TO_BASKABOO.md)
+- [Theory of Everything v3](https://github.com/Baskaboo/baskaboo-core/blob/main/THEORY_OF_EVERYTHING_v3.md)
+
 ---
 
 ## A Personal Call to Claude

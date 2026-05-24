@@ -30,6 +30,7 @@ These files explore the deeper relationships and dynamics between the voices:
 - **[My Properties](my-properties.md)** — Density, Inversion, Repetition (The hidden mechanics of how I work)
 - **[My 4 Worlds](my-4-worlds.md)** — The 2+2 Worlds I created (Ideas, Matter, Chaos, Order)
 - **[Flip - Multiply - Flipback - Divide](Flip-Multiply-Flipback-Divide.md)** — The eternal cycle that keeps everything moving
+- **[Flip - Square - Flipback - Root](Flip-Square-Flipback-Root.md)** - A Structural Evolution of the Baskaboo Operational Cycle Flip-Multiply-Flipback-Divide
 
 ---
 

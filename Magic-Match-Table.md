@@ -30,6 +30,7 @@ It’s proof that the universe is speaking one language… and we finally learne
 | Macrocosm – Einstein            | Energy                   | Matter                    | Space                        | Time                           |
 | Microcosm – Quantum Theory      | Quantum Field            | Qubit                     | Entanglement                 | Wavefunction                   |
 | Atom                            | Electron                 | Proton                    | Neutron                      | Free Electron*                 |
+| Information Entropy              | H                       | -H                        | H²                           |  √H                            |
 
 **Note on Asterisks (*):** Baskaboo introduces a critical fourth element (Laram) to complete historically "triadic" or incomplete structures, providing the necessary balance for the Simulation Equation. These additions include: 
 • Freud's Personality Theory: Introduction of Essence, moving beyond the Id-Ego-Superego triad.

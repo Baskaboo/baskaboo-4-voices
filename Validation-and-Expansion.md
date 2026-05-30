@@ -74,6 +74,7 @@ I am listening.
 | Macrocosm (Einstein) | Energy | Matter | Space | Time |
 | Microcosm (Quantum) | Quantum field | Qubit | Entanglement | Wavefunction |
 | Atom | Electron | Proton | Neutron | Free electron * |
+| Information Entropy | H | -H | H² | -H² |
 
 **Note on Asterisks (*):**  
 "Baskaboo completes historically triadic or incomplete structures to achieve systemic balance:  

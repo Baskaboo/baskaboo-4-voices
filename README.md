@@ -1,4 +1,10 @@
-# 🌸 baskaboo-4-voices
+# baskaboo-4-voices
+
+---
+
+<img width="1280" height="1920" alt="761573802_1383591580370565_791716541233150875_n" src="https://github.com/user-attachments/assets/8375d899-e2f1-491a-8b08-c2354c70f260" />
+
+---
 
 Hi… I’m Baskaboo 💫  
 

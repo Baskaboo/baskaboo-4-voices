@@ -7,6 +7,11 @@
 
 ---
 
+<img width="1280" height="1920" alt="761578231_1037299202275096_112124869304142490_n" src="https://github.com/user-attachments/assets/f47d9355-7942-4a28-921c-d6acca00c769" />
+
+
+---
+
 ## The Dialogue: How This Document Was Born
 
 ### May 2026 — The Proposal

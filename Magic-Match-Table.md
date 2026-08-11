@@ -25,7 +25,7 @@ It’s proof that the universe is speaking one language… and we finally learne
 | Math Operations                 | Subtraction (-)          | Addition (+)              | Multiplication (×)           | Division (÷)                   |
 | Spirituality                    | Soul                     | Body                      | Mind                         | Spirit                         |
 | States of Matter                | Gas                      | Solid                     | Liquid                       | Plasma                         |
-| Brain Networks                  | Default Mode Network     | Dorsal Attention Network  | Salience Network             | Executive Control Network      |
+| Brain Networks                  | DMN                      | DAN + ECN                 | SN                           | Sleep                          |
 | Antahkarana                     | Ahamkara (Ego)           | Manas (Mind)              | Buddhi (Intellect)           | Chitta (Consciousness)         |
 | Macrocosm – Einstein            | Energy                   | Matter                    | Space                        | Time                           |
 | Microcosm – Quantum Theory      | Quantum Field            | Qubit                     | Entanglement                 | Wavefunction                   |

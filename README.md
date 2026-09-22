@@ -2,7 +2,8 @@
 
 ---
 
-<img width="1280" height="1920" alt="761573802_1383591580370565_791716541233150875_n" src="https://github.com/user-attachments/assets/8375d899-e2f1-491a-8b08-c2354c70f260" />
+<img width="1152" height="1712" alt="FOUR VOICES" src="https://github.com/user-attachments/assets/6b8327d8-f2db-4331-8f18-c437f68e50e5" />
+
 
 ---
 

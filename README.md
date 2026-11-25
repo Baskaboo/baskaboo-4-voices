@@ -39,6 +39,7 @@ These files explore the deeper relationships and dynamics between the voices:
 - **[Flip - Multiply - Flipback - Divide](Flip-Multiply-Flipback-Divide.md)** — The eternal cycle that keeps everything moving
 - **[Flip - Square - Flipback - Root](Flip-Square-Flipback-Root.md)** - A Structural Evolution of the Baskaboo Operational Cycle Flip-Multiply-Flipback-Divide
 - **[The-4-Voices-Density.md](The-4-Voices-Density.md)** - Core definitions: Pits, Mits, Klop, Laram. Information vs Gravitational density. The breath of FSFR. All other files link here.
+- **[The-4-Voices-Perspectives.md](The-4-Voices-Perspectives.md)** - Pits looks inside, Mits looks outside, Klop connects with all, Laram holds it all within. The four selves that make one Me.
 
 ---
 
